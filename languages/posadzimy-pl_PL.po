@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Posadzimy.pl\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+msgid "General settings"
+msgstr "Ustawienia integracji z Posadzimy.pl"
+
+msgid "Certificate generating settings"
+msgstr "Ustawienia generowania certyfikatu"
+
+msgid "Settings"
+msgstr "Ustawienia ogólne"
+
+msgid "Help"
+msgstr "Pomoc i wsparcie techniczne"
+
+msgid "Minimum order value"
+msgstr "Wysokość zamówienia powyżej którego sadzone będzie drzewo [zł]"
+
+msgid "API ID"
+msgstr "ID sadzenia"
+
+msgid "API Key"
+msgstr "Klucz API"
+
+msgid "The Plant ID can be found in the Posadzimy.pl customer panel, in the 'API module' tab"
+msgstr "ID sadzenia znajduje się w panelu klienta, w zakładce \"Sadzenie przez API\""
+
+msgid "The API Secret key can be found in the Posadzimy.pl customer panel, in the 'API module ' tab"
+msgstr "Klucz API sadzenia znajduje się w panelu klienta, w zakładce \"Sadzenie przez API\""
+
+msgid "Cart settings"
+msgstr "Informacja o sadzeniu w koszyku, ponad tabelą z produktami"
+
+msgid "Enable or disable cart module"
+msgstr "Powiadomienie aktywne"
+
+msgid "Threshold amount info"
+msgstr "Treść informacji przed osiągnięciem minimalnego zamówienia"
+
+msgid "spend {{wysokosc_zamowienia}} to get the virtual product!"
+msgstr "Za każde zamówienie powyżej {{wysokosc_zamowienia}} posadzimy w Twoim imieniu drzewo, a ty otrzymasz certyfikat na maila. Brakuje ci jeszcze {{brakujaca_kwota}}zł !"
+
+msgid "Checkout settings"
+msgstr "Informacja o sadzeniu w podsumowaniu zamówienia"
+
+msgid "Enable or disable checkout module"
+msgstr "Powiadomienie aktywne"
+
+msgid "User notification settings after purchasing and planting a tree"
+msgstr "Ustawienia powiadomień użytkownika po zakupie i posadzeniu drzewa"
+
+msgid "Customer post order email extra section"
+msgstr "Dodatkowa treśc w mailu z informacją o sadzeniu"
+
+msgid "Additional text visible in mail"
+msgstr "Dodatkowa informacja widoczna w mailu wysyłanym wraz z certyfikatem."
+
+msgid "Enable post order email extra section"
+msgstr "Powiadomienie aktywne tak / nie"
+
+msgid "Post order custom email to customer"
+msgstr "Wysyłanie osobnego maila przez sklep - edycja części maila"
+
+msgid "Enable post order custom email to customer"
+msgstr "Wysyłka aktywna"
+
+msgid "Congratulations! You got a virtual product!"
+msgstr "W ramach podziękowania za zakupy w naszym sklepie, posadzimy w Twoim imieniu drzewo, a ty otrzymasz certyfikat posadzenia na adres e-mail."
+
+msgid "Adding a section with information about planting a tree and certificate to the e-mail sent by WooCommerce after the payment is credited."
+msgstr "Wysyłka aktywna"
+
+msgid "Yes"
+msgstr "Tak"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Custom CSS"
+msgstr "Dodatkowy kod CSS"
+
+msgid "The content of the post-order email"
+msgstr "Dodatkowa treść w mailu z informacją o sadzeniu"
+
+msgid "The subject of the post-order email"
+msgstr "Temat maila po zamówieniu"
+
+msgid "Certificate Text"
+msgstr "Tekst na certyfikacie (opcjonalnie)"
+
+msgid "Virtual product added notice"
+msgstr "Treść informacji po osiągnięciu minimalnego zamówienia"
+
+msgid "Posadzimy.pl: Invalid API configuration. Please provide a valid API KEY and API ID"
+msgstr "Posadzimy.pl: Nieprawidłowa konfiguracja interfejsu API. Podaj prawidłowy KLUCZ API i ID API"
+
+msgid "Posadzimy.pl: Failed to get balance. Check the API credentials"
+msgstr "Posadzimy.pl: Nie można pobrać stanu konta. Sprawdź podane dane dostępowe API"
+
+msgid "You can use the {{wysokosc_zamowienia}} variable to show the required amount, and the {{brakujaca_kwota}} variable to show what value is missing"
+msgstr "Możesz użyć zmiennej {{wysokosc_zamowienia}} aby pokazać minimalną wartość zamówienia oraz zmienną {{brakujaca_kwota}} aby pokazać ile wartości jeszcze brakuje do posadzenia drzewa"
+
+msgid "Credits number: "
+msgstr "Liczba kredytów: "
+
+msgid "Posadzimy integration"
+msgstr "Integracja z Posadzimy.pl"
+
+msgid "Single product settings"
+msgstr "Informacja o sadzeniu na stronie produktowej"
+
+msgid "Enable or disable single product module"
+msgstr "Powiadomienie aktywne"
+
+msgid "Set custom CSS code"
+msgstr "Możesz użyć własnego kodu CSS, aby spersonalizować wygląd komunikatu."
+
+msgid "Certificate settings"
+msgstr "Ustawienia generowania certyfikatu"
+
+msgid "Custom text visible on the certificate. You can use {{imie}} and {{numerZamowienia}} variables. For example, \"{{imie}} - as a thank you for shopping in our store, we planted a tree for you!\""
+msgstr ""
+"Dodatkowy tekst, który widoczny będzie na certyfikacie, np. \"{{imie}} - w podziękowaniu za zakupy w naszym sklepie, posadziliśmy dla Ciebie drzewo! Dziękujemy!\" Możesz użyć zmiennej {{imie}} aby pokazać imię klienta oraz zmienną "
+"{{numerZamowienia}} aby pokazać numer zamówienia."
+
+msgid "As a thank you for the purchase in the XYZ store, we planted a tree!"
+msgstr "W podziękowaniu za zakup w sklepie XYZ posadziliśmy drzewo!"
+
+msgid "Additional information visible on the email. You can use the {{link}} variable to show link to PDF certificate"
+msgstr "Dodatkowa informacja widoczna w mailu wysyłanym wraz z certyfikatem. Użyj {{link}} aby wstawić link do wygenerowanego certyfikatu."
+
+msgid "The content of the custom email"
+msgstr "Treść maila po zamówieniu"
+
+msgid "Separate e-mail settings"
+msgstr "Wysyłka przez sklep osobnej wiadomości e-mail z informacją o posadzeniu drzewa, linkiem do certyfikatu, po zaksięgowaniu wpłaty"
+
+msgid "Post order e-mail section settings"
+msgstr "Dodanie sekcji z informacją o posadzeniu i certyfikacie do maila wysyłanego przez WooCommerce, po zaksięgowaniu wpłaty"
+
+msgid "Click and show example"
+msgstr "Kliknij i zobacz przykład"
+
+msgid "When Post order e-mail section option is enabled field of extra section cannot be empty"
+msgstr "Gdy włączona jest opcja sekcji Poczta elektroniczna po złożeniu zamówienia, pole sekcji dodatkowej nie może być puste"
+
+msgid "When Separate e-mail settings option is enabled fields Subject and Content cannot be empty"
+msgstr "Gdy włączona jest opcja Oddzielne ustawienia wiadomości e-mail, pola Temat i Treść nie mogą być puste"
+
+msgid "Brutto or netto?"
+msgstr "Brutto czy netto?"
+
+msgid "{{imie}} - as a thank you for shopping in our store, we planted a tree for you!"
+msgstr "{{imie}} - w podziękowaniu za zakupy w naszym sklepie, posadziliśmy dla Ciebie drzewo!"
+
+msgid "The API Secret key can be found in the Posadzimy.pl customer panel, in the 'API module' tab"
+msgstr "Klucz API znajduje się w panelu klienta, w zakładce \"Sadzenie przez API\""
+
+msgid "Technically support and help"
+msgstr "Pomoc i wsparcie techniczne"

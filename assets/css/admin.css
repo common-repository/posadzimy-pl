@@ -1,0 +1,31 @@
+.posadzimy_input_long {
+	width: 100%!important;
+}
+
+.posadzimy-mini-img {
+	display: block;
+	margin-top: 16px;
+	margin-bottom: 40px;
+	box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+	visibility: visible;
+}
+
+.glightbox:focus {
+	outline: none;!important;
+}
+
+#wpbody-content div.wrap.woocommerce form#mainform table.form-table tbody tr td.forminp.forminp-textarea{
+	display: flex;
+	flex-direction: column-reverse;
+	color:#646970;
+}
+#mainform table.form-table tbody tr th.titledesc.titledesc_setter{
+	padding-top: 0;
+}
+
+.glightbox_setter{
+	color :#007CBA;
+}
+.d-img-none{
+	display: none;
+}

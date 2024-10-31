@@ -1,0 +1,18 @@
+{
+  "name": "inspirelabs/posadzimy",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Posadzimy.pl",
+  "homepage": "http://gitlab.inspirelabs.pl/inspirelabs/posadzimy",
+  "config": {
+  },
+  "require": {
+    "php": "7.2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Inspire_Labs\\Posadzimy\\": "src/"
+    }
+  }
+
+}
